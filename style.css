@@ -145,13 +145,10 @@ h5:hover{
 
 
 img:hover{
-    /* transform: rotate(360deg); */
+    
     top: -5px;
     width: 90%;
-    /* left: -10%; */
-    /* left: 20px;  */
-    /* background-color: black; */
-    /* width: 240px; */
+
     
 
 }
